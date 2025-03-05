@@ -1,0 +1,265 @@
+2023-01-29 10:09:25,887 MainThread   DEBUG    ********************************************************************************
+2023-01-29 10:09:25,887 MainThread   DEBUG    localtime Sun Jan 29 10:09:25 2023
+2023-01-29 10:09:25,924 MainThread   DEBUG    ********************************************************************************
+2023-01-29 10:09:25,924 MainThread   DEBUG    localtime Sun Jan 29 10:09:25 2023
+2023-01-29 10:09:25,924 MainThread   DEBUG    ********************************************************************************
+2023-01-29 10:09:25,924 MainThread   DEBUG    localtime Sun Jan 29 10:09:25 2023
+2023-01-29 10:09:25,955 MainThread   DEBUG    Start
+2023-01-29 10:09:25,974 MainThread   DEBUG    help Menu: id:1004, txt:&Help
+2023-01-29 10:09:25,974 MainThread   DEBUG    help Menu: id:1005, txt:&About
+2023-01-29 10:09:25,991 MainThread   DEBUG    NoteBook: self.serial_nbr_file: serial_nbr_file.ini
+2023-01-29 10:09:27,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:27 2023
+2023-01-29 10:09:27,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:27,328 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:27,329 MainThread   DEBUG    #1 Com port is open: GetPortConfig() <class 'pywintypes.error'>
+2023-01-29 10:09:27,329 MainThread   DEBUG    ProducerThread: __init__: name:HandleCommunications_10, self.serial_nbr_parser:sections:[]
+2023-01-29 10:09:27,329 MainThread   DEBUG    Thread Initialize: USB port:10, log_destination: F:\
+2023-01-29 10:09:27,329 HandleCommunications_10 DEBUG    Cannot Open Serial Port None
+2023-01-29 10:09:27,330 HandleCommunications_10 DEBUG    SERIALCMD_PING -> [170, 6, 0, 1, 0, 25]
+2023-01-29 10:09:27,330 HandleCommunications_10 DEBUG    Cannot Open Serial Port None
+2023-01-29 10:09:27,330 HandleCommunications_10 DEBUG    SERIALCMD_GET_VERSION -> [170, 6, 0, 3, 129, 216]
+2023-01-29 10:09:27,330 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:27,330 HandleCommunications_10 DEBUG    Cannot Open Serial Port None
+2023-01-29 10:09:27,330 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:27,330 HandleCommunications_10 DEBUG    SERIALCMD_ENUM_INFO -> [170, 7, 0, 2, 10, 152, 11]
+2023-01-29 10:09:28,005 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:28 2023
+2023-01-29 10:09:28,005 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:28,173 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:28,173 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:28,173 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:29,013 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:29 2023
+2023-01-29 10:09:29,013 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:29,185 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:29,185 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:29,185 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:30,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:30 2023
+2023-01-29 10:09:30,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:30,177 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:30,177 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:30,177 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:31,005 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:31 2023
+2023-01-29 10:09:31,005 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:31,174 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:31,174 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:31,174 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:32,005 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:32 2023
+2023-01-29 10:09:32,005 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:32,173 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:32,174 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:32,174 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:33,002 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:33 2023
+2023-01-29 10:09:33,002 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:33,167 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:33,167 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:33,167 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:34,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:34 2023
+2023-01-29 10:09:34,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:34,183 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:34,183 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:34,183 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:35,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:35 2023
+2023-01-29 10:09:35,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:35,180 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:35,180 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:35,180 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:36,006 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:36 2023
+2023-01-29 10:09:36,006 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:36,176 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:36,176 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:36,176 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:37,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:37 2023
+2023-01-29 10:09:37,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:37,203 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:37,203 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:37,203 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:38,002 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:38 2023
+2023-01-29 10:09:38,002 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:38,165 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:38,165 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:38,165 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:39,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:39 2023
+2023-01-29 10:09:39,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:39,178 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:39,178 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:39,178 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:40,006 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:40 2023
+2023-01-29 10:09:40,006 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:40,179 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:40,179 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:40,179 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:41,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:41 2023
+2023-01-29 10:09:41,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:41,175 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:41,175 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:41,175 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:42,008 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:42 2023
+2023-01-29 10:09:42,008 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:42,176 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:42,176 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:42,176 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:43,005 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:43 2023
+2023-01-29 10:09:43,005 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:43,174 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:43,174 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:43,174 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:44,003 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:44 2023
+2023-01-29 10:09:44,003 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:44,172 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:44,173 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:44,173 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:45,001 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:45 2023
+2023-01-29 10:09:45,001 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:45,186 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:45,186 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:45,186 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:46,003 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:46 2023
+2023-01-29 10:09:46,003 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:46,171 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:46,171 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:46,171 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:47,006 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:47 2023
+2023-01-29 10:09:47,006 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:47,173 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:47,173 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:47,173 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:48,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:48 2023
+2023-01-29 10:09:48,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:48,244 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:48,244 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:48,244 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:49,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:49 2023
+2023-01-29 10:09:49,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:49,196 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:49,196 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:49,196 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:50,003 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:50 2023
+2023-01-29 10:09:50,003 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:50,180 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:50,180 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:50,180 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:51,008 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:51 2023
+2023-01-29 10:09:51,008 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:51,193 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:51,193 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:51,193 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:52,008 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:52 2023
+2023-01-29 10:09:52,008 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:52,179 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:52,179 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:52,179 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:53,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:53 2023
+2023-01-29 10:09:53,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:53,185 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:53,185 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:53,185 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:54,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:54 2023
+2023-01-29 10:09:54,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:54,177 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:54,177 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:54,177 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:55,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:55 2023
+2023-01-29 10:09:55,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:55,175 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:55,175 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:55,175 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:56,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:56 2023
+2023-01-29 10:09:56,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:56,178 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:56,178 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:56,178 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:57,008 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:57 2023
+2023-01-29 10:09:57,008 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:57,178 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:57,178 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:57,178 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:58,003 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:58 2023
+2023-01-29 10:09:58,003 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:58,168 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:58,168 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:58,168 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:09:59,003 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:09:59 2023
+2023-01-29 10:09:59,003 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:59,170 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:09:59,170 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:09:59,170 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:00,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:00 2023
+2023-01-29 10:10:00,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:00,169 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:00,169 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:00,169 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:01,002 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:01 2023
+2023-01-29 10:10:01,002 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:01,182 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:01,182 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:01,182 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:02,003 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:02 2023
+2023-01-29 10:10:02,003 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:02,171 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:02,171 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:02,171 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:03,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:03 2023
+2023-01-29 10:10:03,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:03,188 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:03,188 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:03,188 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:04,002 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:04 2023
+2023-01-29 10:10:04,002 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:04,240 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:04,240 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:04,240 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:05,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:05 2023
+2023-01-29 10:10:05,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:05,212 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:05,212 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:05,212 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:06,006 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:06 2023
+2023-01-29 10:10:06,006 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:06,225 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:06,225 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:06,225 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:07,006 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:07 2023
+2023-01-29 10:10:07,006 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:07,178 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:07,178 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:07,178 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:08,007 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:08 2023
+2023-01-29 10:10:08,007 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:08,172 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:08,172 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:08,172 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:09,003 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:09 2023
+2023-01-29 10:10:09,003 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:09,171 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:09,171 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:09,171 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:10,002 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:10 2023
+2023-01-29 10:10:10,002 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:10,167 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:10,167 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:10,167 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:11,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:11 2023
+2023-01-29 10:10:11,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:11,167 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:11,167 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:11,167 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:12,008 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:12 2023
+2023-01-29 10:10:12,008 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:12,178 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:12,178 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:12,178 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:13,004 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:13 2023
+2023-01-29 10:10:13,004 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:13,174 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:13,174 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:13,174 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:14,010 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:14 2023
+2023-01-29 10:10:14,010 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:14,204 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:14,204 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:14,204 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:15,002 MainThread   DEBUG    On_task_timer: Sun Jan 29 10:10:15 2023
+2023-01-29 10:10:15,002 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:15,183 MainThread   DEBUG    Do_ScanForNewConnection:start
+2023-01-29 10:10:15,184 MainThread   DEBUG    Do_CheckForQueueMsg USB_MsgQueue size 0
+2023-01-29 10:10:15,184 MainThread   DEBUG    Do_CheckForQueueMsg : my_que_msg size 0
+2023-01-29 10:10:15,389 MainThread   DEBUG    ExitAPP
